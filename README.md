@@ -1,3 +1,3 @@
 # DesignPatternsStudy
 
-Recap all design patterns. Implemented by Java
+Recap of all design patterns. Implemented by Java.
