@@ -1,4 +1,4 @@
-package com.designprinciples.opencloseprinciple;
+package com.designprinciples.openclose;
 
 public interface ICourse {
     Integer getId ();

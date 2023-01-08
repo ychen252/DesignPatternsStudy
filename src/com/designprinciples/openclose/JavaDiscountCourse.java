@@ -1,4 +1,4 @@
-package com.designprinciples.opencloseprinciple;
+package com.designprinciples.openclose;
 
 public class JavaDiscountCourse extends JavaCourse {
     public JavaDiscountCourse ( Integer id, String name, Double price ) {

@@ -1,4 +1,4 @@
-package com.designprinciples.opencloseprinciple;
+package com.designprinciples.openclose;
 
 public class JavaCourse implements ICourse {
 
